@@ -12,7 +12,7 @@
 ## 📥 Implementation Methods
 
 ### 🔹 Method: ESS OnKey Bindings (Recommended I haven't been using these in menus yet)
-**Best for:** Players who want instant keybind triggers for tactical nukes without a menu.
+**Best for:** Players who want instant triggers without a menu.
 
 1. Place both files in your Ess `OnKey/` directory.
 2. Open `ess_loader.ini` and add keybind entries
