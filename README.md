@@ -11,8 +11,7 @@
 
 ## 📥 Implementation Methods
 
-### 🔹 Method 1: ESS OnKey Bindings (Recommended I haven't been using these in menus yet)
-**Files:** `NukeSingle.lua` & `NukeBurst.lua`  
+### 🔹 Method: ESS OnKey Bindings (Recommended I haven't been using these in menus yet)
 **Best for:** Players who want instant keybind triggers for tactical nukes without a menu.
 
 1. Place both files in your Ess `OnKey/` directory.
